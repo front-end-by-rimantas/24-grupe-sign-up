@@ -58,6 +58,10 @@ body {
 .form-row {
     display: inline-block;
     width: 100%;
+    margin-bottom: 30px;
+}
+.form-row:last-of-type {
+    margin-bottom: 0;
 }
 
 label {
